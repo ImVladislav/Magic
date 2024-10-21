@@ -2145,36 +2145,40 @@ var rr = "framer-1hhCh",
                                 }),
                               }),
                             }),
-                            // t(ye, {
-                            //   href: "https://www.dextools.io/app/en/ether/pair-explorer/0xb36c443298dc695be4339bc57e0b3ae0c1ac91d8?t=1729118201981",
-                            //   children: t(W, {
-                            //     breakpoint: o,
-                            //     overrides: {
-                            //       BJp3tRdKe: {
-                            //         background: {
-                            //           alt: "",
-                            //           fit: "fill",
-                            //           pixelHeight: 400,
-                            //           pixelWidth: 640,
-                            //           src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
-                            //           srcSet:
-                            //             "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
-                            //         },
-                            //       },
-                            //       imoZ0iwwr: {
-                            //         background: {
-                            //           alt: "",
-                            //           fit: "fill",
-                            //           loading: f(617.7500000000002),
-                            //           pixelHeight: 400,
-                            //           pixelWidth: 640,
-                            //           src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
-                            //           srcSet:
-                            //             "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
-                            //         },
-                            //       },
-                            //     },
+                            t(ye, {
+                              style: {
+                                display: "none",
+                              },
+                              href: "https://www.dextools.io/app/en/ether/pair-explorer/0xb36c443298dc695be4339bc57e0b3ae0c1ac91d8?t=1729118201981",
+                              children: t(W, {
+                                breakpoint: o,
+                                overrides: {
+                                  BJp3tRdKe: {
+                                    background: {
+                                      alt: "",
+                                      fit: "fill",
+                                      pixelHeight: 400,
+                                      pixelWidth: 640,
+                                      src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
+                                      srcSet:
+                                        "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
+                                    },
+                                  },
+                                  imoZ0iwwr: {
+                                    background: {
+                                      alt: "",
+                                      fit: "fill",
+                                      loading: f(617.7500000000002),
+                                      pixelHeight: 400,
+                                      pixelWidth: 640,
+                                      src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
+                                      srcSet:
+                                        "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
+                                    },
+                                  },
+                                },
                                 children: t(k, {
+                 
                                   as: "a",
                                   background: {
                                     alt: "",
@@ -2193,6 +2197,7 @@ var rr = "framer-1hhCh",
                                     children: t(y, {
                                       children: t("p", {
                                         style: {
+                                          
                                           "--font-selector":
                                             "R0Y7S29kZSBNb25vLTcwMA==",
                                           "--framer-font-family":
@@ -2231,46 +2236,54 @@ var rr = "framer-1hhCh",
                                   },
                                 },
                               },
-                            //   children: t(k, {
-                            //     background: {
-                            //       alt: "",
-                            //       fit: "fill",
-                            //       loading: f(685.7500000000002),
-                            //       pixelHeight: 400,
-                            //       pixelWidth: 640,
-                            //       src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
-                            //       srcSet:
-                            //         "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
-                            //     },
-                            //     className: "framer-1oys1yc",
-                            //     "data-border": !0,
-                            //     children: t(v, {
-                            //       __fromCanvasComponent: !0,
-                            //       children: t(y, {
-                            //         children: t("p", {
-                            //           style: {
-                            //             "--font-selector":
-                            //               "R0Y7S29kZSBNb25vLTcwMA==",
-                            //             "--framer-font-family":
-                            //               '"Kode Mono", monospace',
-                            //             "--framer-font-size": "20px",
-                            //             "--framer-font-weight": "700",
-                            //             "--framer-letter-spacing": "2px",
-                            //             "--framer-line-height": "90%",
-                            //             "--framer-text-alignment": "left",
-                            //             "--framer-text-color":
-                            //               "rgb(255, 255, 255)",
-                            //           },
-                            //           children: "DEXSCREENER",
-                            //         }),
-                            //       }),
-                            //       className: "framer-1v3u8x3",
-                            //       fonts: ["GF;Kode Mono-700"],
-                            //       verticalAlignment: "top",
-                            //       withExternalLayout: !0,
-                            //     }),
-                            //   }),
-                            // }),
+                              children: t(k, {
+                                style: {
+                                  display: "none",
+                                },
+                                background: {
+                                  alt: "",
+                                  fit: "fill",
+                                  loading: f(685.7500000000002),
+                                  pixelHeight: 400,
+                                  pixelWidth: 640,
+                                  src: "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif",
+                                  srcSet:
+                                    "https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif?scale-down-to=512 512w,https://framerusercontent.com/images/erPMbMQtzwzfbZDCiHCMUyH0A0.gif 640w",
+                                },
+                                className: "framer-1oys1yc",
+                                "data-border": !0,
+                                children: t(v, {
+                                  style: {
+                                    display: "none",
+                                  },
+                                  __fromCanvasComponent: !0,
+                                  children: t(y, {
+                                    children: t("p", {
+                                      style: {
+                                        "--font-selector":
+                                          "R0Y7S29kZSBNb25vLTcwMA==",
+                                        "--framer-font-family":
+                                          '"Kode Mono", monospace',
+                                        "--framer-font-size": "20px",
+                                        "--framer-font-weight": "700",
+                                        "--framer-letter-spacing": "2px",
+                                        "--framer-line-height": "90%",
+                                        "--framer-text-alignment": "left",
+                                        "--framer-text-color":
+                                          "rgb(255, 255, 255)",
+                                      },
+                                      children: "DEXSCREENER",
+                                    }),
+                                  }),
+                                  style: {
+                                    display: "none",
+                                  },
+                                  fonts: ["GF;Kode Mono-700"],
+                                  verticalAlignment: "top",
+                                  withExternalLayout: !0,
+                                }),
+                              }),
+                            }),
                             t(ye, {
                               href: "t.me/magicerc",
                               children: t(W, {
@@ -3700,7 +3713,7 @@ var rr = "framer-1hhCh",
     ".framer-1hhCh .framer-6e7v9b { aspect-ratio: 1.3279320987654322 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 377px); overflow: visible; position: relative; width: 500px; z-index: 1; }",
     ".framer-1hhCh .framer-1mef9l1 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1080px; }",
     ".framer-1hhCh .framer-14brblw, .framer-1hhCh .framer-vs6v38, .framer-1hhCh .framer-1yu4ubh, .framer-1hhCh .framer-lrreyc { --border-bottom-width: 5px; --border-color: #fe3fff; --border-left-width: 5px; --border-right-width: 5px; --border-style: solid; --border-top-width: 5px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 20px; position: relative; text-decoration: none; width: min-content; }",
-    ".framer-1hhCh .framer-1oys1yc { --border-bottom-width: 5px; --border-color: #fe3fff; --border-left-width: 5px; --border-right-width: 5px; --border-style: solid; --border-top-width: 5px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 20px; position: relative; width: min-content; }",
+    ".framer-1hhCh .framer-1oys1yc { --border-bottom-width: 5px; --border-color: #fe3fff; display: none; --border-left-width: 5px; --border-right-width: 5px; --border-style: solid; --border-top-width: 5px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 20px; position: relative; width: min-content; }",
     ".framer-1hhCh .framer-z92dwf-container { flex: 1 0 0px; height: 1px; position: relative; width: 100%; }",
     ".framer-1hhCh .framer-zvijug, .framer-1hhCh .framer-bawqy6 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: center; max-width: 1400px; overflow: hidden; padding: 100px; position: relative; width: 100%; }",
     ".framer-1hhCh .framer-pxkjn3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 90%; }",
