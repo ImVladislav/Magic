@@ -2285,7 +2285,7 @@ var rr = "framer-1hhCh",
                               }),
                             }),
                             t(ye, {
-                              href: "t.me/magicerc",
+                              href: "https://t.me/MagicCoinFun",
                               children: t(W, {
                                 breakpoint: o,
                                 overrides: {
@@ -2356,7 +2356,7 @@ var rr = "framer-1hhCh",
                               }),
                             }),
                             t(ye, {
-                              href: "https://x.com/magicerc",
+                              href: "https://x.com/MagicCoinFun",
                               openInNewTab: !0,
                               children: t(W, {
                                 breakpoint: o,
